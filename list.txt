@@ -1,0 +1,5 @@
+Song{idSong=0, name='dai', author='dai', singer='dai'/n}Song{idSong=1, name='dai', author='dai', singer='dai'/n}Song{idSong=0, name='dai ca', author='ca', singer='ca'
+}Song{idSong=1, name='ca', author='dai', singer='ca'
+}Song{idSong=0, name='ho keo phao', author='da', singer='da'
+}Song{idSong=23, name='32', author='32', singer='32'
+}
