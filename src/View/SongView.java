@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class ClientSong {
+public class SongView {
     static List<Song> songList = new ArrayList<>();
     static Scanner sc = new Scanner(System.in);
 
@@ -142,7 +142,7 @@ public class ClientSong {
 
         for (Song song1 : songList) {
             if (song1.getIdSong() == id) {
-                song1.input();
+                songList .remove(song1);
                 break;
             }
         }
